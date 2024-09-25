@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 I'm currently learning machine learning and artificial intelligence! 
+
+Good luck! 😄
+
 <!--
 **SomeBotMeOn/SomeBotMeOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
