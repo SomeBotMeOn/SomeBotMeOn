@@ -4,8 +4,6 @@
 
 Thanks for stopping by here!🙂
 
-f
-
 Good luck! 😄
 
 <!--
