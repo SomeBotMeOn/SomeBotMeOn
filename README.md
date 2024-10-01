@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🌱 I'm currently learning machine learning and artificial intelligence! 
+🌱 I'm currently learning machine learning and artificial intelligence!
+
+Thanks for stopping by here!🙂
 
 Good luck! 😄
 
