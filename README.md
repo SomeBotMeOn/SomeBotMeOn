@@ -11,9 +11,9 @@
 
 ## Связаться со мной:
 
-[Telegram](https://t.me/OlegErofeev1)  
+Telegram: https://t.me/OlegErofeev1  
 
-[Email](lionbolshoe@yandex.ru)
+Email: lionbolshoe@yandex.ru
 
 ---
 
