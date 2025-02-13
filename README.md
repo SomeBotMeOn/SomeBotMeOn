@@ -22,7 +22,7 @@ Email: lionbolshoe@yandex.ru
 - **Улучшение прогнозов**: Optuna, Featuretools  
 - **Ансамблевые методы**: Stacking, Blending
 - **Глубокое обучение**: PyTorch
-- **Прочее**: SQL, Git  
+- **Прочее**: Git  
 
 ---
 
