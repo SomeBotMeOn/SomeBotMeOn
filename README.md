@@ -27,7 +27,7 @@ Email: lionbolshoe@yandex.ru
 - **Языки и библиотеки**: Python (pandas, numpy, matplotlib, seaborn), SQL
 - **Машинное обучение**: Scikit-learn, LightGBM, CatBoost, XGBoost
 - **Улучшение прогнозов**: Optuna, Featuretools  
-- **Ансамблевые методы**: Stacking, Blending
+- **Ансамблевые методы**: Stacking, Bagging, Blending, Voting
 - **Глубокое обучение**: PyTorch
 - **Работа с данными**: подготовка датасетов для ML-моделей
 - **Прочее**: Git, MS Office
