@@ -1,50 +1,50 @@
-# Привет, Я Олег Ерофеев 👋
+# Hi, I’m Oleg Erofeev 👋
 
-### Обучаюсь ML и Data Science, развиваюсь в сфере анализа данных и машинного обучения.
+### I am studying ML and Data Science, and growing in the field of data analysis and machine learning.
 
-- 🚀 Увлекаюсь решением задач с применением ML.  
-- 📊 Постоянно изучаю новые инструменты и техники для работы с данными.  
-- 📚 Разбираюсь в математике, статистике и алгоритмах машинного обучения.  
-- 💡 Верю, что **"Каждая строка кода — это вклад в будущее, которое мы создаём уже сегодня"**.  
+- 🚀 I enjoy solving problems using ML.  
+- 📊 I am constantly learning new tools and techniques for working with data.  
+- 📚 I understand mathematics, statistics, and machine learning algorithms.  
+- 💡 I believe that **"Every line of code is a contribution to the future we are building today"**.  
 
 ---
 
-## Связаться со мной:
+## Contact me:
 
 Email: lionbolshoe@yandex.ru
 
 ---
 
-## Научные исследования и публикации:
-- **РИНЦ**: 1 опубликованная статья, 1 статья на рассмотрении
-- **Награды**: Диплом II степени
+## Research and Publications:
+- **RSCI**: 3 published articles
+- **Awards**: Diploma of 2nd degree
 
 ---
 
-## Профессиональные навыки:
-- **Математика**: Теория чисел, теория информации и кодирования в искусственном интеллекте, математический анализ, линейная алгебра и аналитическая геометрия, математическая статистика, теория вероятностей, специальные главы высшей математики
-- **Экономика**: эконометрика
-- **Языки и библиотеки**: Python (pandas, numpy, matplotlib, seaborn), SQL
-- **Машинное обучение**: Scikit-learn, LightGBM, CatBoost, XGBoost
-- **Улучшение прогнозов**: Optuna, Featuretools  
-- **Ансамблевые методы**: Stacking, Bagging, Blending, Voting
-- **Глубокое обучение**: PyTorch
-- **Работа с данными**: подготовка датасетов для ML-моделей
-- **Прочее**: Git, MS Office
+## Professional Skills:
+- **Mathematics**: number theory, information and coding theory in artificial intelligence, mathematical analysis, linear algebra and analytic geometry, mathematical statistics, probability theory, special topics in higher mathematics
+- **Economics**: econometrics
+- **Languages and Libraries**: Python (pandas, numpy, matplotlib, seaborn), SQL
+- **Machine Learning**: Scikit-learn, LightGBM, CatBoost, XGBoost
+- **Forecast Improvement**: Optuna, Featuretools  
+- **Ensemble Methods**: Stacking, Bagging, Blending, Voting
+- **Deep Learning**: PyTorch
+- **Data Work**: dataset preparation for ML models
+- **Other**: Git, MS Office
 
 ---
 
-## Мои проекты
+## My Projects
 
-| # | Наименование проекта                                                                                  | Тип             | Описание                                                                                                                                                                                                               | Стек                                                                                                                                         | Статус       | Видимость |
-|---|-------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------|
-| 1 | [Model-Evaluator](https://github.com/SomeBotMeOn/Model-Evaluator)                                     | Инструмент      | Гибкий инструмент для сравнения моделей машинного обучения с поддержкой ансамблей, оптимизации гиперпараметров и валидации.                                                                                            | Pandas, NumPy, Optuna, Scikit-learn, CatBoost, XGBoost, LightGBM, Collections, Pickle, tqdm                                 | В разработке | Public    |
-| 2 | [Clients-Segmentation](https://github.com/SomeBotMeOn/Clients-Segmentation)                           | Статья РИНЦ     | Кластеризация держателей кредитных карт для разработки целевых финансовых предложений и улучшения маркетинговых стратегий.                                                                                 | Pandas, NumPy, Scipy, Phik, Matplotlib, Seaborn, Yellowbrick, Scikit-learn, CatBoost, LightGBM, XGBoost, Optuna, Pickle, Warnings, tqdm | На рассмотрении | Public    |
-| 3 | [Region-Segmentation](https://github.com/SomeBotMeOn/Region-Segmentation)             | Исследование    | Сегментация регионов РФ по социально-экономическому развитию. Выявление однородных групп регионов России на основе 52 показателей                                            | Pandas, NumPy, Scikit-learn, SHAP, Matplotlib, Seaborn, Yellowbrick, SciPy                                                       | Написание статьи    | Private    |
-| 4 | [Alfa-Challenge](https://github.com/SomeBotMeOn/Alfa-Challenge)                                       | Хакатон         | Предсказание сохранения положительного баланса на счетах клиентов банка в рамках хакатона Alfa Challenge                                                                                                               | Pandas, Numpy, Matplotlib, Seaborn, Featuretools, CatBoost, LightGBM, Optuna                                                                 | Завершено    | Public    |
-| 5 | [Helper-Buddy-Bot](https://github.com/SomeBotMeOn/Helper-Buddy-Bot)                                   | Прикладное решение | Телеграм-бот, который помогает узнавать погоду, новости и мероприятия, а также подбирает одежду под ваш температурный режим с использованием ML.                                                                       | Pandas, Scikit-learn, NumPy, Matplotlib, SQLite3, Datetime, Requests                                                                         | Завершено    | Public    |
-| 6 | [OSAGO-Renewal-Predict](https://github.com/SomeBotMeOn/OSAGO-Renewal-Predict)                         | Исследование    | Прогнозирование пролонгации страховых договоров (ОСАГО) | Pandas, NumPy, Matplotlib, Seaborn, Optuna, Scikit-learn, CatBoost, XGBoost, LightGBM                                                        | Завершено    | Public    |
-| 7 | [Cleaned-vs-Dirty-Classification](https://www.kaggle.com/code/olegerofeev/cleaned-vs-dirty-v2-pytorch-vit)               | Соревнование    | Классификация изображений тарелок на чистые/грязные                     | PyTorch, Matplotlib, Pandas, NumPy                                                                   | Завершено    | Public   |
-| 8 | [Regression-Optimization](https://e.lanbook.com/book/464735)                                                                               | Статья РИНЦ     | Применение методов подготовки данных для улучшения точности прогнозов линейной регрессии                                                                                                         | Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib, Itertools                                                                                  | Завершено | Public   |
-| 9 | [Hack&Change 2024](https://github.com/qiisqwww/MTS-Hack-and-Change)                                   | Хакатон         | (Трек: Web/DA: Сервис визуализации организационной структуры от МТС) Разработан алгоритм быстрого поиска сотрудников по запросу с учетом лишних слова. Применил NLP-препроцессинг и инвертированные индексы для поиска. | json, string, pymorphy3, re, nltk                                                                                                            | Завершено    | Public    |
-| 10 | [Курсовая работа](https://drive.google.com/file/d/1qZhyO2WuDl05QlpAEL8Hq084SHxe3y3U/view?usp=drive_link) | Курсовая работа     | Реализация алгоритмов оптимизации линейной регрессии для улучшения точности прогнозов стоимости недвижимости                                                                                                           | Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib, Itertools                                                                                  | Завершено    | Public    |
+| # | Project Name | Type | Description | Stack | Status | Visibility |
+|---|---|---|---|---|---|---|
+| 1 | [Model-Evaluator](https://github.com/SomeBotMeOn/Model-Evaluator) | Tool | A flexible tool for comparing machine learning models with support for ensembles, hyperparameter optimization, and validation. | Pandas, NumPy, Optuna, Scikit-learn, CatBoost, XGBoost, LightGBM, Collections, Pickle, tqdm | In development | Public |
+| 2 | [Clients-Segmentation](https://github.com/SomeBotMeOn/Clients-Segmentation) | RSCI article | Clustering credit card holders to develop targeted financial offers and improve marketing strategies. | Pandas, NumPy, Scipy, Phik, Matplotlib, Seaborn, Yellowbrick, Scikit-learn, CatBoost, LightGBM, XGBoost, Optuna, Pickle, Warnings, tqdm | Under review | Public |
+| 3 | [Region-Segmentation](https://github.com/SomeBotMeOn/Region-Segmentation) | Research | Segmentation of Russian regions by socio-economic development. Identification of homogeneous groups of Russian regions based on 52 indicators. | Pandas, NumPy, Scikit-learn, SHAP, Matplotlib, Seaborn, Yellowbrick, SciPy | Writing the article | Private |
+| 4 | [Alfa-Challenge](https://github.com/SomeBotMeOn/Alfa-Challenge) | Hackathon | Predicting whether a positive account balance will be maintained for bank customers as part of the Alfa Challenge hackathon. | Pandas, Numpy, Matplotlib, Seaborn, Featuretools, CatBoost, LightGBM, Optuna | Completed | Public |
+| 5 | [Helper-Buddy-Bot](https://github.com/SomeBotMeOn/Helper-Buddy-Bot) | Applied solution | A Telegram bot that helps users find out the weather, news, and events, and also selects clothing based on the temperature using ML. | Pandas, Scikit-learn, NumPy, Matplotlib, SQLite3, Datetime, Requests | Completed | Public |
+| 6 | [OSAGO-Renewal-Predict](https://github.com/SomeBotMeOn/OSAGO-Renewal-Predict) | Research | Predicting the renewal of motor insurance contracts (OSAGO). | Pandas, NumPy, Matplotlib, Seaborn, Optuna, Scikit-learn, CatBoost, XGBoost, LightGBM | Completed | Public |
+| 7 | [Cleaned-vs-Dirty-Classification](https://www.kaggle.com/code/olegerofeev/cleaned-vs-dirty-v2-pytorch-vit) | Competition | Classification of plate images into clean/dirty. | PyTorch, Matplotlib, Pandas, NumPy | Completed | Public |
+| 8 | [Regression-Optimization](https://e.lanbook.com/book/464735) | RSCI article | Applying data preparation methods to improve the accuracy of linear regression forecasts. | Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib, Itertools | Completed | Public |
+| 9 | [Hack&Change 2024](https://github.com/qiisqwww/MTS-Hack-and-Change) | Hackathon | (Track: Web/DA: Organizational structure visualization service from MTS) Developed an algorithm for fast employee search by query, taking extra words into account. Applied NLP preprocessing and inverted indexes for search. | json, string, pymorphy3, re, nltk | Completed | Public |
+| 10 | [Course Project](https://drive.google.com/file/d/1qZhyO2WuDl05QlpAEL8Hq084SHxe3y3U/view?usp=drive_link) | Course project | Implementation of linear regression optimization algorithms to improve the accuracy of real estate price predictions. | Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib, Itertools | Completed | Public |
