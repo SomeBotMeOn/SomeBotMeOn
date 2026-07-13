@@ -29,7 +29,7 @@ Email: lionbolshoe@yandex.ru
 - **Forecast Improvement**: Optuna, Featuretools  
 - **Ensemble Methods**: Stacking, Bagging, Blending, Voting
 - **Deep Learning**: PyTorch
-- **Data Work**: dataset preparation for ML models
+- **Data**: Hadoop, Sandbox, DBeaver, dataset preparation for ML models
 - **Other**: Git, MS Office
 
 ---
